@@ -5,31 +5,33 @@
 - 😄 Pronouns: She/Her
 - ⚡ Hobbies and Interest: I enjoy reading books
 
-
 <h3>Current Skills</h3>
-<p>
-<img src="https://th.bing.com/th/id/OIP.0mabFE_RQxke-kS9fOZ3DAHaHR?rs=1&pid=ImgDetMain" width="40" height="40">
-<img src="https://erudisi.com/wp-content/uploads/2015/09/mysql-logo.png" width="60" height="60">
-<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" width="80" height="60">
-<img src="https://th.bing.com/th/id/OIP.shGOhtIdDvsjExQmrHOqXwHaEK?rs=1&pid=ImgDetMain"width = "80" height="60">
-<img src="https://th.bing.com/th/id/OIP.w-qTcyA4TSToAE1FZlj5nwHaEK?rs=1&pid=ImgDetMain" width ="60" height="60">
-<img src="https://th.bing.com/th/id/OIP.Gj40thAJ6_xQRDWAPXPChQHaFu?rs=1&pid=ImgDetMain" width="60" height="60">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png" width="80" height="80">
+
+<p align="center">
+<a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
+<a href="#" target="blank"> <img src="https://th.bing.com/th/id/OIP.0mabFE_RQxke-kS9fOZ3DAHaHR?rs=1&pid=ImgDetMain" alt="Excel" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png" alt="Azure" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/1920px-Tableau_logo.svg.png" alt="Tableau" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://th.bing.com/th/id/OIP.shGOhtIdDvsjExQmrHOqXwHaEK?rs=1&pid=ImgDetMain" alt="Microsoft Power BI" height="60"/> </a>
 </p>
-<p>  
-<img src="https://i0.wp.com/datascientest.com/wp-content/uploads/2022/01/illu_pandas-82.png?w=2560&ssl=1" width = "100" height="60">  
-<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width ="100" height"80">
-<img src="https://mir-s3-cdn-cf.behance.net/projects/404/5a620a136406951.Y3JvcCw4MDgsNjMyLDAsMA.png" width = "100" height="60">
-  
-  </p>
+
 <!---
 Barbsajeseni/Barbsajeseni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
   
 <h3>📫 How to reach me</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/barbaraajeseni)
+
+
 <p>
-<a href="[https://www.linkedin.com/in/subashini-mahadevan/](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BfRAcGOA%2FSPu2ZqDMP7bDvw%3D%3D)">
+<a href="[https://www.linkedin.com/in/barbaraajesen](https://www.linkedin.com/in/barbaraajeseni)">
   <img align="Left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="45" />
 </a>
 <a href="mailto: barbsmila@yahoo.co.uk">  
