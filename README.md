@@ -29,11 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/barbaraajeseni)
 
-
 <p>
-<a href="[https://www.linkedin.com/in/barbaraajesen](https://www.linkedin.com/in/barbaraajeseni)">
-  <img align="Left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="45" />
-</a>
 <a href="mailto: barbsmila@yahoo.co.uk">  
   <img align="left" src="https://th.bing.com/th/id/OIP.krAaE6FtioWofyMKg7zryQHaEK?w=306&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="45">
 </a>
